@@ -1,1 +1,14 @@
-
+Package: com.coolbooter.cbuntether
+Name: coolbooter
+Version: 1.2
+Architecture: iphoneos-arm
+Description: coolbooter
+Maintainer: Evan <evan@bigbadevan.xyz>
+Author: Evan <evan@bigbadevan.xyz>
+Section: tweaks
+Depends: 
+Filename: debs/coolbooter.deb
+Size: 59498
+MD5sum: 
+SHA1: 
+SHA256: 
